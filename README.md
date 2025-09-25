@@ -25,14 +25,15 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 Mogo ini adalah sebuah website portal berita full-stack yang dibangun menggunakan Laravel 12 untuk backend dan FilamentPHP sebagai CMS (Content Management System) admin panel. Tampilan front-end (website pengguna) dibuat dari template HTML yang diintegrasikan dengan Laravel.
 
-## Fitur
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Fitur Mogo Projects
+- Tampilan Berita Dinamis: Menampilkan berita unggulan (featured), berita terbaru, dan daftar penulis.
+- Kategori Berita: Filter berita berdasarkan kategori (misalnya: Politik, Kesehatan, Pariwisata).
+- Halaman Detail Berita: Menampilkan isi berita lengkap, penulis, dan berita terkait.
+- Halaman Penulis: Menampilkan profil penulis dan daftar berita yang telah mereka tulis.
+
+##Panel Admin (Filament)
+-Manajemen CRUD (Create, Read, Update, Delete) untuk Berita, Kategori Berita, Penulis, dan Banner.
+-Antarmuka yang modern, responsif, dan mudah digunakan.
 
 
 ## Gambar Mogo Projects
