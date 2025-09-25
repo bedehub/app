@@ -11,15 +11,14 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Persyaratan Sistem
+Pastikan Anda sudah menginstal aplikasi berikut di sistem Anda:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- PHP (versi 8.2 atau lebih tinggi)
+- Composer
+- Node.js & NPM
+- MySQL
+- Web server (seperti XAMPP atau Laragon)
 
 ## Mogo Portal Berita dengan Laravel 12 & Filament
 
@@ -32,8 +31,8 @@ Mogo ini adalah sebuah website portal berita full-stack yang dibangun menggunaka
 - Halaman Penulis: Menampilkan profil penulis dan daftar berita yang telah mereka tulis.
 
 ## Panel Admin (Filament)
--Manajemen CRUD (Create, Read, Update, Delete) untuk Berita, Kategori Berita, Penulis, dan Banner.
--Antarmuka yang modern, responsif, dan mudah digunakan.
+- Manajemen CRUD (Create, Read, Update, Delete) untuk Berita, Kategori Berita, Penulis, dan Banner.
+- Antarmuka yang modern, responsif, dan mudah digunakan.
 
 
 ## Gambar Mogo Projects
