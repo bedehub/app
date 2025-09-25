@@ -35,6 +35,11 @@ Pastikan Anda sudah menginstal aplikasi berikut di sistem Anda:
  <br/> DB_DATABASE=nama_database_anda
  <br/> DB_USERNAME=root
  <br/> DB_PASSWORD=
+- php artisan key:generate
+- php artisan filament:user
+- php artisan storage:link
+- php artisan serve
+
 
 ## Mogo Portal Berita dengan Laravel 12 & Filament
 
