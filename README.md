@@ -30,7 +30,7 @@ You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Gambar Mogo Projects
- <img src="gambar/contoh.png" lebar="300" />
+ <img src="./banner/1.png" lebar="300" />
 
 
 ## License
