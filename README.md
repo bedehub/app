@@ -25,6 +25,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 Mogo ini adalah sebuah website portal berita full-stack yang dibangun menggunakan Laravel 12 untuk backend dan FilamentPHP sebagai CMS (Content Management System) admin panel. Tampilan front-end (website pengguna) dibuat dari template HTML yang diintegrasikan dengan Laravel.
 
+#Fitur
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
