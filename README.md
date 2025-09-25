@@ -31,6 +31,13 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## Gambar Mogo Projects
  <img src="./banner/1.png" lebar="300" />
+ <img src="./banner/2.png" lebar="300" />
+ <img src="./banner/3.png" lebar="300" />
+ <img src="./banner/4.png" lebar="300" />
+ <img src="./banner/5.png" lebar="300" />
+ <img src="./banner/6.png" lebar="300" />
+ <img src="./banner/7.png" lebar="300" />
+ <img src="./banner/8.png" lebar="300" />
 
 
 ## License
