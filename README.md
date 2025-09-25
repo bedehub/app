@@ -31,7 +31,7 @@ Mogo ini adalah sebuah website portal berita full-stack yang dibangun menggunaka
 - Halaman Detail Berita: Menampilkan isi berita lengkap, penulis, dan berita terkait.
 - Halaman Penulis: Menampilkan profil penulis dan daftar berita yang telah mereka tulis.
 
-##Panel Admin (Filament)
+## Panel Admin (Filament)
 -Manajemen CRUD (Create, Read, Update, Delete) untuk Berita, Kategori Berita, Penulis, dan Banner.
 -Antarmuka yang modern, responsif, dan mudah digunakan.
 
