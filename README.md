@@ -24,6 +24,17 @@ Pastikan Anda sudah menginstal aplikasi berikut di sistem Anda:
 - MySQL
 - Web server (seperti XAMPP atau Laragon)
 
+## Cara Menginstall nya
+- git clone https://github.com/bedehub/app.git
+- cd app
+- composer install & npm install
+-  ganti .env <br/> DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=nama_database_anda
+DB_USERNAME=root
+DB_PASSWORD=
+
 ## Mogo Portal Berita dengan Laravel 12 & Filament
 
 Mogo ini adalah sebuah website portal berita full-stack yang dibangun menggunakan Laravel 12 untuk backend dan FilamentPHP sebagai CMS (Content Management System) admin panel. Tampilan front-end (website pengguna) dibuat dari template HTML yang diintegrasikan dengan Laravel.
