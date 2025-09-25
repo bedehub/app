@@ -7,9 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Note ( code )
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Membutuhkan Keahlian Pemrograman: Untuk dapat mengkustomisasi fitur atau memperbaiki bug yang mungkin ditemukan, Anda harus memiliki pengetahuan dasar hingga menengah dalam pemrograman, khususnya dalam Laravel, PHP, dan JavaScript. Proyek ini tidak disarankan untuk pengguna yang hanya ingin sekadar salin-tempel (copy-paste) tanpa pemahaman teknis.
+
+- Belum Ada Otentikasi Pengguna: Proyek ini belum memiliki sistem otentikasi (login/signup) untuk pengguna umum. Semua manajemen data saat ini hanya bisa dilakukan melalui panel admin.
+- Tahap Pengembangan: Proyek ini masih dalam tahap pengembangan. Beberapa fitur mungkin belum berfungsi optimal dan masih ada potensi bug yang perlu diperbaiki.
+- Kode Sumber: Kode sumber ini dibuat berdasarkan tutorial dan mungkin tidak mencakup semua fitur atau perbaikan bug yang ditemukan setelah video tersebut dirilis.
 
 ## Persyaratan Sistem
 Pastikan Anda sudah menginstal aplikasi berikut di sistem Anda:
