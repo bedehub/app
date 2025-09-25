@@ -28,12 +28,13 @@ Pastikan Anda sudah menginstal aplikasi berikut di sistem Anda:
 - git clone https://github.com/bedehub/app.git
 - cd app
 - composer install & npm install
--  ganti .env <br/> DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=nama_database_anda
-DB_USERNAME=root
-DB_PASSWORD=
+-  ganti .env
+  <br/> DB_CONNECTION=mysql
+ <br/> DB_HOST=127.0.0.1
+ <br/> DB_PORT=3306
+ <br/> DB_DATABASE=nama_database_anda
+ <br/> DB_USERNAME=root
+ <br/> DB_PASSWORD=
 
 ## Mogo Portal Berita dengan Laravel 12 & Filament
 
