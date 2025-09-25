@@ -70,3 +70,8 @@ Mogo ini adalah sebuah website portal berita full-stack yang dibangun menggunaka
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Copyright
+<div>
+  <p>&copy; Copyright 2025. Bedehub . All rights reserved.</p>
+</div>
